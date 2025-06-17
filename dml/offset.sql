@@ -1,0 +1,3 @@
+SELECT * FROM customers
+ORDER BY id
+LIMIT 2 OFFSET 3;
